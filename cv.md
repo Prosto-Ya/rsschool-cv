@@ -31,4 +31,12 @@ let result= multiply(3,4);
 alert(result);
 ```
 
+## Education:
+* Belarussian National Technical University - Machin building faculty
+* Courses:
+  * [CSS/Html/JavaScript](https://rs.school/)
+  * [HtmlAcademy](https://htmlacademy.ru/study)
 
+## Languages:
+* Russian - native speaker.
+* English - studied 5 years at the university, than 7 years didn't speak and learn it and now there is a great desire to remember it.
