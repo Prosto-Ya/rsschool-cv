@@ -16,3 +16,19 @@
 * open to change
 * patient
 
+## Skills:
+* HTML
+* CSS
+* JavaScript
+* Git/GitHub
+
+## Code Examples:
+```
+function multiply(a,b) {
+    return a*b;
+}
+let result= multiply(3,4);
+alert(result);
+```
+
+
