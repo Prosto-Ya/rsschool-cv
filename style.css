@@ -1,6 +1,84 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 180%;
+    background-image: url(./assets/1614134657_1-p-priyatnii-nezhnii-fon-1.jpg);
+}
+
 .contacts {
     margin-left: 30px;
     list-style-type: none;
-    margin-left: 10px;
     padding: 0px;
+    margin-left: 10px;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.photo {
+    width: 200px;
+    height: 260px;
+    border-radius: 50% / 50%;
+    background: url("./assets/myyy.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.about_me {
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.about_me p {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.skills {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.code {
+    display: block;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.education {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.language {
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.page-footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 15px 0;
+    background-color: #e90de9;
+}
+
+.footer-link {
+    padding: 0 180px 20px 150px;
+    text-align: right;
+}
+
+.footer-year {
+    font-size: 36px;
 }
