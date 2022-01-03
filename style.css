@@ -66,20 +66,3 @@ body {
     border-radius: 10px;
     font-size: 18px;
 }
-
-.page-footer {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 15px 0;
-    background-color: #e90de9;
-}
-
-.footer-link {
-    padding: 0 180px 20px 150px;
-    text-align: right;
-}
-
-.footer-year {
-    font-size: 36px;
-}
-
