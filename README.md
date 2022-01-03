@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Prosto-Ya.github.io/rsschool-cv/
