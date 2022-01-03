@@ -66,3 +66,11 @@ body {
     border-radius: 10px;
     font-size: 18px;
 }
+
+.page-footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 15px 0;
+    background-color: #e90de9;
+}
+
