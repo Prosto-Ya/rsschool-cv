@@ -33,3 +33,12 @@ body {
     background-repeat: no-repeat;
 }
 
+.about_me {
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.about_me p {
+    font-size: 18px;
+}
